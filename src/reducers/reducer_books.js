@@ -1,9 +1,9 @@
 export default function () {
     return [
-        {tilte: 'Harry Potter'},
-        {tilte: 'JS Beginner'},
-        {tilte: 'JS Exert'},
-        {tilte: 'Dark knight'},
-        {tilte: 'Inception'},
+        {title: 'Harry Potter'},
+        {title: 'JS Beginner'},
+        {title: 'JS Exert'},
+        {title: 'Dark knight'},
+        {title: 'Inception'},
     ]
 }

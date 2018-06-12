@@ -6,7 +6,6 @@ export default class App extends Component {
     return (
       <div>
         <BookList />
-        React simple starter
       </div>
     );
   }
