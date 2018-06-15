@@ -1,9 +1,9 @@
 export default function () {
     return [
-        {title: 'Harry Potter'},
-        {title: 'JS Beginner'},
-        {title: 'JS Exert'},
-        {title: 'Dark knight'},
-        {title: 'Inception'},
+        {title: 'Harry Potter', pages: 420},
+        {title: 'JS Beginner', pages: 340},
+        {title: 'JS Exert', pages: 330},
+        {title: 'Dark knight', pages: 220},
+        {title: 'Inception', pages: 452},
     ]
 }
